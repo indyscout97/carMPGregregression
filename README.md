@@ -6,6 +6,7 @@ __Jack Beck, Dria Fabrizio, Jordan Waldroop__
 
 This project was assigned as our final project for our Quantitative Methods statistics class. The goal of the project was to perform a regression analysis on a dataset with an identifiable business problem. The choice of dataset was left up to each team. Our team choose a simple dataset of car miles-per-gallon data, which contained a number of cars and their relevant specifications. Using the specifications as features, we created a linear regression model which predicted a car's MPG using those input features. 
 
+## Link to dataset: http://archive.ics.uci.edu/ml/datasets/Auto+MPG 
 
 ## *Executive Summary*
 
